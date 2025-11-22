@@ -41,6 +41,15 @@ Ini adalah bahasa dan alat yang saya gunakan dan yang sedang saya pelajari:
 
 ---
 
+### 🕹️ GitHub Activity Snake (Pac-Man Style)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bobbb00/Bobbb00/output/github-snake-pacman.svg" alt="GitHub Activity Snake Pac-Man" />
+
+  </p>
+
+---
+
 ### 💬 Hubungi Saya
 
 * 🏢 **Status:** Mahasiswa Universitas Bhayangkara Jakarta Raya.
@@ -49,7 +58,7 @@ Ini adalah bahasa dan alat yang saya gunakan dan yang sedang saya pelajari:
 * 🗣️ **Mari Berdiskusi:** Saya terbuka untuk pertanyaan seputar JavaScript, React, dan *roadmap* menjadi *full stack developer*.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/syafaaliazmi)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/bobi_dev/](https://www.instagram.com/code.azmi/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/code.azmi/)
 
 <!--
 
