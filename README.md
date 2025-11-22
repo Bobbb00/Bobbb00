@@ -57,7 +57,7 @@ Ini adalah bahasa dan alat yang saya gunakan dan yang sedang saya pelajari:
 * 📫 **Email:** syafaali23@gmail.com
 * 🗣️ **Mari Berdiskusi:** Saya terbuka untuk pertanyaan seputar JavaScript, React, dan *roadmap* menjadi *full stack developer*.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/syafaaliazmi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syafaaliazmi/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/code.azmi/)
 
 <!--
