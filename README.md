@@ -28,7 +28,7 @@ Ini adalah bahasa dan alat yang saya gunakan dan yang sedang saya pelajari:
 
 ### 📊 Aktivitas GitHub
 
-<div align="center">
+<div >
   <img src="https://github-readme-stats.vercel.app/api?username=Bobbb00&show_icons=true&theme=dark&hide_border=true&count_private=true" 
        alt="GitHub Stats Syafa" 
        style="margin-bottom: 20px;"
