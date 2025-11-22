@@ -44,18 +44,10 @@ Ini adalah bahasa dan alat yang saya gunakan dan yang sedang saya pelajari:
 🕹️ GitHub Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://raw.githubusercontent.com/Bobbb00/Bobbb00/output/github-snake-dark.svg">
-    
-    <source media="(prefers-color-scheme: light)" 
-            srcset="https://raw.githubusercontent.com/Bobbb00/Bobbb00/output/github-snake-light.svg">
-    
-    <img alt="GitHub Contribution Snake" 
-         src="https://raw.githubusercontent.com/Bobbb00/Bobbb00/output/github-snake-light.svg">
-  </picture>
+<!-- KODE URL GAMBAR YANG SUDAH DIBERSIHKAN:
+Link gambar HARUS dimulai dari https://raw.githubusercontent.com/ -->
+<img src="https://raw.githubusercontent.com/Bobbb00/Bobbb00/output/pacman-contribution-graph.svg" alt="GitHub Activity Pac-Man" />
 </p>
-
 ---
 
 ### 💬 Hubungi Saya
