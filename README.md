@@ -41,7 +41,7 @@ Ini adalah bahasa dan alat yang saya gunakan dan yang sedang saya pelajari:
 
 ---
 
-🕹️ GitHub Activity Snake (Pac-Man Style)
+🕹️ GitHub Activity
 
 <p align="center">
 <!-- KODE URL GAMBAR YANG SUDAH DIBERSIHKAN:
