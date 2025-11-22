@@ -26,7 +26,8 @@ jobs:
         with:
           github_user_name: Bobbb00 # <-- GANTI DENGAN USERNAME ANDA!
           # Output Light Mode
-          outputs: dist/pacman-contribution-graph-light.svg
+          outputs: dist/pacman-contribution-graph-light.gif
+          mode: gif
           # Konfigurasi warna untuk Light Mode
           colors: |
             snake: "#0969da" # Biru
@@ -40,7 +41,8 @@ jobs:
         with:
           github_user_name: Bobbb00 # <-- GANTI DENGAN USERNAME ANDA!
           # Output Dark Mode
-          outputs: dist/pacman-contribution-graph-dark.svg
+          outputs: dist/pacman-contribution-graph-dark.gif
+          mode: gif
           # Konfigurasi warna untuk Dark Mode
           colors: |
             snake: "#2f81f7" # Biru terang
