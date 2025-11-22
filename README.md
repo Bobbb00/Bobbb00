@@ -43,7 +43,11 @@ Ini adalah bahasa dan alat yang saya gunakan dan yang sedang saya pelajari:
 
 🕹️ GitHub Activity Snake (Pac-Man Style)
 
-<p align="center"> Bobbb00 <img src="https://www.google.com/url?sa=E&source=gmail&q=https://raw.githubusercontent.com/Bobbb00/Bobbb00/output/pacman-contribution-graph.svg" alt="GitHub Activity Pac-Man" /> </p>
+<p align="center">
+<!-- KODE URL GAMBAR YANG SUDAH DIBERSIHKAN:
+Link gambar HARUS dimulai dari https://raw.githubusercontent.com/ -->
+<img src="https://raw.githubusercontent.com/Bobbb00/Bobbb00/output/pacman-contribution-graph.svg" alt="GitHub Activity Pac-Man" />
+</p>
 
 ---
 
