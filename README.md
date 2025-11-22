@@ -43,16 +43,11 @@ Ini adalah bahasa dan alat yang saya gunakan dan yang sedang saya pelajari:
 
 🕹️ GitHub Activity
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://raw.githubusercontent.com/Bobbb00/Bobbb00/output/pacman-contribution-graph-dark.gif">
-    <source media="(prefers-color-scheme: light)" 
-            srcset="https://raw.githubusercontent.com/Bobbb00/Bobbb00/output/pacman-contribution-graph-light.gif">
-    <img alt="GitHub Activity Pac-Man" 
-         src="https://raw.githubusercontent.com/Bobbb00/Bobbb00/output/pacman-contribution-graph-light.gif">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibrhm1/Ibrhm1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ibrhm1/Ibrhm1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ibrhm1/Ibrhm1/output/pacman-contribution-graph.svg">
+</picture>
 
 
 ---
