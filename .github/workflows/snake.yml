@@ -2,27 +2,28 @@ name: Generate Snake Animation for Profile
 
 on:
   schedule:
-    # Menjalankan setiap 12 jam (Anda bisa mengubahnya jika mau)
     - cron: "0 */12 * * *"
-  workflow_dispatch: # Memungkinkan Anda menjalankan secara manual dari tab Actions
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions: # <--- INI BAGIAN YANG DITAMBAHKAN
+      contents: write # <--- INI PEMBERIAN IZIN
     steps:
       - uses: actions/checkout@v3
       - uses: platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: Bobbb00  # <--- PASTIKAN INI ADALAH USERNAME GITHUB ANDA
+          github_user_name: Bobbb00
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark # Untuk tema gelap
-            dist/github-snake-pacman.svg?palette=pacman # Ini tema Pac-Man!
-
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-pacman.svg?palette=pacman
+          
       - uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output # Branch 'output' akan menyimpan file SVG
+          target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Token otomatis GitHub
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
