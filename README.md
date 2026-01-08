@@ -26,21 +26,6 @@ Ini adalah bahasa dan alat yang saya gunakan dan yang sedang saya pelajari:
 
 ---
 
-### 📊 Aktivitas GitHub
-
-<div >
-  <img src="https://github-readme-stats.vercel.app/api?username=Bobbb00&show_icons=true&theme=dark&hide_border=true&count_private=true" 
-       alt="GitHub Stats Syafa" 
-       style="margin-bottom: 20px;"
-  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobbb00&layout=compact&theme=dark&hide_border=true" 
-       alt="Top Languages Syafa"
-  />
-</div>
-
----
-
 🕹️ GitHub Activity
 
 <picture>
