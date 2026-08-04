@@ -210,11 +210,11 @@ Proyek aplikasi berbasis kecerdasan buatan untuk melakukan analisis atau klasifi
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bobbb00&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Statistics">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bobbb00&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Statistics">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobbb00&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobbb00&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages">
 
-<br>
+<br><br>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Bobbb00&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
 
