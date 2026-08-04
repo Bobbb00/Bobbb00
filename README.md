@@ -190,15 +190,15 @@ Proyek aplikasi berbasis kecerdasan buatan untuk melakukan analisis atau klasifi
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Capstone-2026-Eco-Wise&repo=frontend-eco-wise&theme=github_dark&hide_border=true" alt="Eco-Wise Frontend">
 </a>
 
-<a href="https://github.com/Bobbb00/stall-frontend">
+<a href="https://github.com/USERNAME_GITHUB/stall-frontend">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bobbb00&repo=stall-frontend&theme=github_dark&hide_border=true" alt="Stall Frontend">
 </a>
 
-<a href="https://github.com/Bobbb00/stall-backend">
+<a href="https://github.com/USERNAME_GITHUB/stall-backend">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bobbb00&repo=stall-backend&theme=github_dark&hide_border=true" alt="Stall Backend">
 </a>
 
-<a href="https://github.com/Bobbb00/Bookshelf">
+<a href="https://github.com/USERNAME_GITHUB/Bookshelf">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bobbb00&repo=Bookshelf&theme=github_dark&hide_border=true" alt="Bookshelf">
 </a>
 
