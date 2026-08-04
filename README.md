@@ -29,7 +29,7 @@
 
 ## 👨‍💻 Tentang Saya
 
-Halo, saya **Syafa Ali Azmi**, mahasiswa semester 5 di **Universitas Bhayangkara Jakarta Raya**.
+Halo, saya **Syafa Ali Azmi**, mahasiswa semester 7 di **Universitas Bhayangkara Jakarta Raya**.
 
 Saya sedang membangun kemampuan sebagai **Full Stack Developer** dengan fokus pada pengembangan aplikasi web menggunakan teknologi MERN Stack.
 
