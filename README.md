@@ -1,22 +1,21 @@
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=180&section=header&text=Syafa%20Ali%20Azmi&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20in%20Progress&descAlignY=57&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=200&section=header&text=Syafa%20Ali%20Azmi&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=57&descSize=20&animation=fadeIn"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+in+Progress;MERN+Stack+Enthusiast;Learning+by+Building+Real+Projects" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Building+Modern+Web+Applications;React+%7C+Node.js+%7C+Express+%7C+Database" alt="Typing Animation">
 
 <br>
 
 <a href="https://www.linkedin.com/in/syafaaliazmi/">
-  <img src="https://img.shields.io/badge/LinkedIn-Syafa_Ali_Azmi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://www.instagram.com/code.azmi/">
-  <img src="https://img.shields.io/badge/Instagram-code.azmi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <img src="https://img.shields.io/badge/LinkedIn-Syafa_Ali_Azmi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:syafaali23@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Hubungi_Saya-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Email-Hubungi_Saya-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/code.azmi/">
+  <img src="https://img.shields.io/badge/Instagram-code.azmi-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 <br><br>
@@ -29,128 +28,201 @@
 
 ## 👨‍💻 Tentang Saya
 
-Halo, saya **Syafa Ali Azmi**, mahasiswa semester 7 di **Universitas Bhayangkara Jakarta Raya**.
+Saya **Syafa Ali Azmi**, mahasiswa Universitas Bhayangkara Jakarta Raya yang berfokus pada pengembangan aplikasi web.
 
-Saya sedang membangun kemampuan sebagai **Full Stack Developer** dengan fokus pada pengembangan aplikasi web menggunakan teknologi MERN Stack.
+Saya mengembangkan aplikasi menggunakan teknologi frontend, backend, REST API, dan database. Saya juga memiliki pengalaman mengerjakan proyek individu serta berkolaborasi dalam proyek kelompok dan organisasi.
 
-- 🌱 Sedang mempelajari React, Express.js, MongoDB, dan REST API
-- 🎯 Menargetkan kemampuan Full Stack Development
-- 💻 Belajar melalui praktik dan pengembangan proyek
-- 🤝 Terbuka untuk kesempatan magang dan kolaborasi
-- 📚 Tertarik pada pengembangan aplikasi web yang terstruktur dan responsif
-
----
-
-## 🎯 Fokus Saat Ini
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📖 Sedang Dipelajari</h3>
-      <ul>
-        <li>React Hooks dan state management</li>
-        <li>REST API dengan Express.js</li>
-        <li>MongoDB dan database design</li>
-        <li>Authentication dan authorization</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🚀 Target Pengembangan</h3>
-      <ul>
-        <li>Menguasai MERN Stack</li>
-        <li>Membangun aplikasi full stack</li>
-        <li>Menulis kode yang bersih</li>
-        <li>Berkontribusi pada open source</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- 💻 Mengembangkan aplikasi frontend dan backend
+- 🔗 Membangun dan mengintegrasikan REST API
+- 🗄️ Mengelola database aplikasi
+- 👥 Berpengalaman mengerjakan proyek kelompok
+- 🚀 Terbuka untuk kesempatan magang dan kolaborasi
+- 📍 Berdomisili di Indonesia
 
 ---
 
-## 🛠️ Teknologi dan Tools
+## 🛠️ Teknologi
 
 <div align="center">
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" alt="Frontend Skills">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite&theme=dark" alt="Frontend Technologies">
 
-<br>
+<br><br>
 
 ### Backend dan Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite&theme=dark" alt="Backend Skills">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,python&theme=dark" alt="Backend Technologies">
 
-<br>
+<br><br>
 
-### Development Tools
+### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" alt="Development Tools">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,docker&theme=dark" alt="Development Tools">
 
 </div>
 
 ---
 
-## 🚀 Project Unggulan
+# 🚀 Project
 
-### 🛒 Stall Management System
+## 👥 Team and Organization Project
 
-Aplikasi web untuk membantu proses pengelolaan warung. Proyek ini dikembangkan menggunakan arsitektur frontend dan backend yang terpisah.
+### ♻️ Eco-Wise
+
+**Eco-Wise** adalah aplikasi web klasifikasi sampah berbasis AI. Aplikasi ini membantu pengguna mengenali jenis sampah melalui kamera dan mendorong kebiasaan memilah sampah melalui sistem gamifikasi.
+
+Proyek ini dikembangkan bersama tim dalam program capstone.
+
+**Kontribusi utama:**
+
+- Mengembangkan antarmuka aplikasi
+- Mengintegrasikan frontend dengan API
+- Berkolaborasi menggunakan GitHub Organization
+- Mengelola pengembangan fitur bersama tim
+- Melakukan pengujian dan perbaikan aplikasi
+
+**Teknologi:**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Classification-8A2BE2?style=flat-square)
+
+<p>
+  <a href="https://github.com/Capstone-2026-Eco-Wise">
+    <img src="https://img.shields.io/badge/Lihat_Organization-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="https://github.com/Capstone-2026-Eco-Wise/frontend-eco-wise">
+    <img src="https://img.shields.io/badge/Lihat_Repository-1F6FEB?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 👨‍💻 Personal Projects
+
+### 🛒 Stall POS System
+
+Aplikasi kasir berbasis web untuk membantu pengelolaan transaksi, produk, persediaan, dan laporan penjualan pada warung.
+
+Sistem dikembangkan dengan arsitektur frontend dan backend yang terpisah.
+
+**Fitur utama:**
+
+- Manajemen produk dan persediaan
+- Transaksi penjualan
+- Pemindaian barcode melalui kamera
+- Riwayat transaksi
+- Dashboard dan laporan
+- REST API
+- Database lokal menggunakan SQLite
+
+**Teknologi:**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+<p>
+  <a href="https://github.com/Bobbb00/stall-frontend">
+    <img src="https://img.shields.io/badge/Frontend_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="https://github.com/Bobbb00/stall-backend">
+    <img src="https://img.shields.io/badge/Backend_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+---
+
+### 📚 Bookshelf App
+
+Aplikasi web untuk mencatat dan mengelola koleksi buku.
+
+**Fitur utama:**
+
+- Menambahkan data buku
+- Mencari buku
+- Mengubah status buku
+- Menghapus buku
+- Menyimpan data melalui browser storage
+
+**Teknologi:**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+<a href="https://github.com/Bobbb00/Bookshelf">
+  <img src="https://img.shields.io/badge/Lihat_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+---
+
+### 🥭 AI Manggo
+
+Proyek aplikasi berbasis kecerdasan buatan untuk melakukan analisis atau klasifikasi mangga.
+
+**Teknologi:**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square)
+
+<a href="https://github.com/Bobbb00/AI-Manggo">
+  <img src="https://img.shields.io/badge/Lihat_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+---
+
+## 📌 Repository Pilihan
 
 <div align="center">
 
+<a href="https://github.com/Capstone-2026-Eco-Wise/frontend-eco-wise">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Capstone-2026-Eco-Wise&repo=frontend-eco-wise&theme=github_dark&hide_border=true" alt="Eco-Wise Frontend">
+</a>
+
 <a href="https://github.com/Bobbb00/stall-frontend">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bobbb00&repo=stall-frontend&theme=tokyonight&hide_border=true" alt="Stall Frontend">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bobbb00&repo=stall-frontend&theme=github_dark&hide_border=true" alt="Stall Frontend">
 </a>
 
 <a href="https://github.com/Bobbb00/stall-backend">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bobbb00&repo=stall-backend&theme=tokyonight&hide_border=true" alt="Stall Backend">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bobbb00&repo=stall-backend&theme=github_dark&hide_border=true" alt="Stall Backend">
 </a>
-
-</div>
-
-<br>
-
-### 📚 Project Lainnya
-
-<div align="center">
 
 <a href="https://github.com/Bobbb00/Bookshelf">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bobbb00&repo=Bookshelf&theme=tokyonight&hide_border=true" alt="Bookshelf">
-</a>
-
-<a href="https://github.com/Bobbb00/AI-Manggo">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bobbb00&repo=AI-Manggo&theme=tokyonight&hide_border=true" alt="AI Manggo">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bobbb00&repo=Bookshelf&theme=github_dark&hide_border=true" alt="Bookshelf">
 </a>
 
 </div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bobbb00&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Statistics">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobbb00&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages">
 
 <br>
 
-<div align="center">
-
-<a href="https://github.com/Bobbb00?tab=repositories">
-  <img src="https://img.shields.io/badge/Lihat_Semua_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Semua Project">
-</a>
+<img width="70%" src="https://streak-stats.demolab.com?user=Bobbb00&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
 
 </div>
 
 ---
 
-## 📊 Statistik GitHub
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bobbb00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobbb00&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
-
-</div>
-
----
-
-## 🕹️ GitHub Activity
+## 🕹️ Contribution Activity
 
 <div align="center">
 
@@ -174,29 +246,28 @@ Aplikasi web untuk membantu proses pengelolaan warung. Proyek ini dikembangkan m
 
 ---
 
-## 🤝 Mari Terhubung
+## 🤝 Hubungi Saya
 
-Saya terbuka untuk berdiskusi mengenai pengembangan web, JavaScript, React, Node.js, dan perjalanan belajar menjadi Full Stack Developer.
+Saya terbuka untuk kesempatan magang, kolaborasi proyek, dan diskusi mengenai pengembangan aplikasi web.
 
 <div align="center">
 
 <a href="mailto:syafaali23@gmail.com">
-  <img src="https://img.shields.io/badge/Email-syafaali23%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Email-syafaali23%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/syafaaliazmi/">
-  <img src="https://img.shields.io/badge/LinkedIn-Syafa_Ali_Azmi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Syafa_Ali_Azmi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://www.instagram.com/code.azmi/">
-  <img src="https://img.shields.io/badge/Instagram-code.azmi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <img src="https://img.shields.io/badge/Instagram-code.azmi-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 <br><br>
 
-### Terima kasih sudah mengunjungi profil saya 👋
+**Terima kasih sudah mengunjungi profil saya.**
 
 </div>
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=120&section=footer"/>
