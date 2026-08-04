@@ -184,25 +184,12 @@ Proyek aplikasi berbasis kecerdasan buatan untuk melakukan analisis atau klasifi
 
 ## 📌 Repository Pilihan
 
-<div align="center">
-
-<a href="https://github.com/Capstone-2026-Eco-Wise/frontend-eco-wise">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Capstone-2026-Eco-Wise&repo=frontend-eco-wise&theme=github_dark&hide_border=true" alt="Eco-Wise Frontend">
-</a>
-
-<a href="https://github.com/USERNAME_GITHUB/stall-frontend">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bobbb00&repo=stall-frontend&theme=github_dark&hide_border=true" alt="Stall Frontend">
-</a>
-
-<a href="https://github.com/USERNAME_GITHUB/stall-backend">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bobbb00&repo=stall-backend&theme=github_dark&hide_border=true" alt="Stall Backend">
-</a>
-
-<a href="https://github.com/USERNAME_GITHUB/Bookshelf">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bobbb00&repo=Bookshelf&theme=github_dark&hide_border=true" alt="Bookshelf">
-</a>
-
-</div>
+| Project | Jenis | Repository |
+|---|---|---|
+| ♻️ Eco-Wise | Project Tim | [Lihat Project](https://github.com/Capstone-2026-Eco-Wise/frontend-eco-wise) |
+| 🛒 Stall Frontend | Project Individu | [Lihat Repository](https://github.com/Bobbb00/stall-frontend) |
+| ⚙️ Stall Backend | Project Individu | [Lihat Repository](https://github.com/Bobbb00/stall-backend) |
+| 📚 Bookshelf | Project Individu | [Lihat Repository](https://github.com/Bobbb00/Bookshelf) |
 
 ---
 
@@ -210,13 +197,10 @@ Proyek aplikasi berbasis kecerdasan buatan untuk melakukan analisis atau klasifi
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bobbb00&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Statistics">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobbb00&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages">
-
-<br><br>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Bobbb00&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
+<img
+  src="https://streak-stats.demolab.com?user=Bobbb00&theme=github-dark-blue&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
 
