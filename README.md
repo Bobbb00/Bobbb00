@@ -186,7 +186,7 @@ Proyek aplikasi berbasis kecerdasan buatan untuk melakukan analisis atau klasifi
 
 | Project | Jenis | Repository |
 |---|---|---|
-| ♻️ Eco-Wise | Project Tim | [Lihat Project](https://github.com/Capstone-2026-Eco-Wise/frontend-eco-wise) |
+| ♻️ Eco-Wise | Project Tim | [Lihat Project](https://github.com/Capstone-2026-Eco-Wise) |
 | 🛒 Stall Frontend | Project Individu | [Lihat Repository](https://github.com/Bobbb00/stall-frontend) |
 | ⚙️ Stall Backend | Project Individu | [Lihat Repository](https://github.com/Bobbb00/stall-backend) |
 | 📚 Bookshelf | Project Individu | [Lihat Repository](https://github.com/Bobbb00/Bookshelf) |
